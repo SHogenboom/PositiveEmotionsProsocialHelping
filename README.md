@@ -1,5 +1,4 @@
-Online Appendix for Positive Emotions and Prosocial Helping 
-(University of Amsterdam research internship project)
+Online Appendix for the University of Amsterdam Research Master Internship Project "Positive Emotions and Prosocial Helping"
 
 All analyses and plots are included in the 'index.html' file, a coversion of the R Markdown file.
 
